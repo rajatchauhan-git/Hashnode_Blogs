@@ -172,3 +172,15 @@ Now, you’ll configure Jenkins to run the application using Docker Compose.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1723298362342/17c3fc2a-1477-499f-9e17-bd92ff121d5a.gif align="center")
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">If you need help or have any questions, just leave them in the comments! 📝 I would be happy to answer them!</div>
+</div>
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">If you found this post useful, please give it a thumbs up 👍 and consider following for more helpful content. 😊</div>
+</div>
+
+### Thank you for taking the time to read! 💚
