@@ -83,8 +83,8 @@ tags: docker, github, webhooks, jenkins, docker-compose, 90daysofdevops, trainwi
 
 * * GitHub WebHooks are a way for GitHub to notify Jenkins (or any other system) about events in your repository, such as code pushes, pull requests, etc.
         
-        * When a specified event occurs, GitHub sends a POST request to the configured URL with data describing the event.
-            
+        \* When a specified event occurs, GitHub sends a POST request to the configured URL with data describing the event.
+        
 * **Why Are WebHooks Important in CI/CD?**
     
     * WebHooks enables the automatic triggering of Jenkins jobs based on changes in your GitHub repository, ensuring continuous integration and deployment without manual intervention.
@@ -98,7 +98,6 @@ tags: docker, github, webhooks, jenkins, docker-compose, 90daysofdevops, trainwi
     
     * In your Jenkins job configuration, under **Build Triggers**, check the box for the **GitHub hook trigger for GITScm polling**.
         
-
 * **Step 2:** Define build steps:
     
     * Add necessary build steps like shell scripts, Docker build, or deploying to a server based on your project’s requirements.
@@ -160,8 +159,6 @@ Now, you’ll configure Jenkins to run the application using Docker Compose.
     
 3. **Save the Configuration**.
     
-
----
 
 #### Step 3: **Run the Project**
 
