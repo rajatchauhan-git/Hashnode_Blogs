@@ -174,3 +174,18 @@ With the agent successfully set up and connected to the master, you can now conf
     * Check the console output of the jobs to ensure they are running on the intended agent.
         
     * Verify that the jobs are completed successfully without any errors related to the master-agent setup.
+        
+
+---
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">If you need help or have any questions, just leave them in the comments! 📝 I would be happy to answer them!</div>
+</div>
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">If you found this post useful, please give it a thumbs up 👍 and consider following for more helpful content. 😊</div>
+</div>
+
+### Thank you for taking the time to read! 💚
