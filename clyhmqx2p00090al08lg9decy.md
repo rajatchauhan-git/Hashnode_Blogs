@@ -4,6 +4,7 @@ datePublished: Thu Jul 11 2024 18:56:17 GMT+0000 (Coordinated Universal Time)
 cuid: clyhmqx2p00090al08lg9decy
 slug: log-analyzer-and-report-generator
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720724090649/78b09abb-9159-4805-930c-81e6e865946f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723505070378/513750c0-2302-4ead-ab58-f26e848809b1.png
 tags: devops, shell-scripting, 90daysofdevops, trainwithshubham, shellscripting-devops, loganalysis
 
 ---
