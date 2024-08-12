@@ -74,3 +74,17 @@ Worker Nodes are the machines where the actual application containers run. Each 
 ### The Role of the API Server
 
 The API server is a critical component of the Kubernetes Control Plane, acting as the front-end for the Kubernetes control plane. It exposes the Kubernetes API, which is a RESTful interface used by all other components to communicate with each other and by external users to manage the cluster. The API server handles all the requests, validates them, and then processes them by updating the etcd store or dispatching the necessary tasks to other components, such as the scheduler or controller manager.
+
+---
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">If you need help or have any questions, just leave them in the comments! 📝 I would be happy to answer them!</div>
+</div>
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">If you found this post useful, please give it a thumbs up 👍 and consider following for more helpful content. 😊</div>
+</div>
+
+### Thank you for taking the time to read! 💚
