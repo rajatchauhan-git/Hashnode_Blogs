@@ -4,6 +4,7 @@ datePublished: Sat Aug 10 2024 14:56:35 GMT+0000 (Coordinated Universal Time)
 cuid: clzo9e7da000009mcgdejbcpf
 slug: complete-jenkins-cicd-project-continued-with-documentation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723301720772/c4e1c882-b6f6-4123-875f-c560586c9395.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723504436806/32128af3-4dbd-44c0-bcfc-c270d105c008.png
 tags: docker, github, documentation, jenkins, 90daysofdevops, trainwithshubham
 
 ---
