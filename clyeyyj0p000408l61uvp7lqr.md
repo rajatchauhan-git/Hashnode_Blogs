@@ -4,6 +4,7 @@ datePublished: Tue Jul 09 2024 22:14:49 GMT+0000 (Coordinated Universal Time)
 cuid: clyeyyj0p000408l61uvp7lqr
 slug: shell-scripting-challenge-directory-backup-with-rotation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720562070108/1115dbca-9764-459b-ba62-31d3eb367fb9.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723505086097/cc41663b-29b8-4112-af55-647d2a85b9ee.png
 tags: linux, shell, backup, shell-script, 90daysofdevops, trainwithshubham
 
 ---
