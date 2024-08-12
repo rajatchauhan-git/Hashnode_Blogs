@@ -10,7 +10,7 @@ tags: linux, linux-for-beginners, linux-basics, linux-commands, 90daysofdevops, 
 ---
 
 ✨ What is Linux?  
-\- Linux is an open-source operating system modelled on UNIX. It's the foundation  
+\- Linux is an open-source operating system modeled on UNIX. It's the foundation  
 of many cloud infrastructures and has a significant presence in the server world, among other places.
 
 ✨ Basic Fundamentals of Linux:  
