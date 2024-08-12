@@ -4,6 +4,7 @@ datePublished: Mon Aug 12 2024 23:07:53 GMT+0000 (Coordinated Universal Time)
 cuid: clzrltq3m000309kvb8utdjnj
 slug: jenkins-important-interview-questions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723495664280/ba06dc77-8d78-4db7-b211-e281d84f6132.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723504360976/aa6bfcb0-064c-48e1-b4c6-9c236dfe7fcc.png
 tags: interview, interviews, cloud, trends, aws, cloud-computing, jenkins, interview-questions, linux-kernel, jenkins-devops, interview-preparations, 90daysofdevops, trainwithshubham, jenkins-installation, jenkins-pipeline
 
 ---
